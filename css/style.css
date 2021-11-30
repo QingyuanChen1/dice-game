@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    font: 2em system-ui;
+}
+
+.face{
+    border: 0.25em solid black;
+    border-radius:  0.5em;
+    display: block;
+    max-width:  20em;
+    margin: 1em auto;
+
+
+}
+
+
+.roll{
+    font: inherit
+}
